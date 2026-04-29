@@ -1,6 +1,6 @@
-# 👋 Data Scientist & ML Developer
+# 👋 Student Information technology
 
-Specializing in **Machine Learning**, **Data Science**, and **AI solutions**. Building predictive models, automating processes, and creating intelligent systems.
+Learning **Machine Learning**, **Data Science**, and **AI solutions**. Building predictive models, automating processes, and creating intelligent systems.
 
 ---
 
